@@ -8,4 +8,5 @@
 
 4)Amazon
 
-********************************************** All the program files exsists in the src directory ***********************************************************
+
+NOTE: All the program files exsists in the src directory 
